@@ -5,7 +5,7 @@
 # Visual Studio
 *.sln
 *.ncb
-*.vcproj
+*.vcxproj
 *.vcxproj.user
 *.VC.db
 *.VC.db-shm
