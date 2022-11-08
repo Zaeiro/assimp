@@ -6,6 +6,7 @@
 *.sln
 *.ncb
 *.vcxproj
+*.vcxproj.filters
 *.vcxproj.user
 *.VC.db
 *.VC.db-shm
